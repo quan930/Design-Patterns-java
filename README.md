@@ -11,5 +11,5 @@
 + [简单工厂-注解实现](./src/test/java/cn/lilq/designmode/factory/annotation/FactoryTest.java)
 
 ### [单例模式-Singleton pattern](https://www.jianshu.com/p/0f6755b20767)
-+ [饿汉单例模式](./src/test/java/cn/lilq/designmode/singleton/eager/SingletonTest.java)
-+ [懒汉单例模式](./src/test/java/cn/lilq/designmode/singleton/lazy/LazySingletonTest.java)
++ [饿汉单例模式实现](./src/test/java/cn/lilq/designmode/singleton/eager/SingletonTest.java)
++ [懒汉单例模式实现](./src/test/java/cn/lilq/designmode/singleton/lazy/LazySingletonTest.java)
