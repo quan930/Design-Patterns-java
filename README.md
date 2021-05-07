@@ -9,3 +9,7 @@
 ### [工厂模式-Factory pattern](https://www.jianshu.com/p/b4a5c64bdd2e)
 + [简单工厂-配置文件实现](./src/test/java/cn/lilq/designmode/factory/configurationfile/FactoryTest.java)
 + [简单工厂-注解实现](./src/test/java/cn/lilq/designmode/factory/annotation/FactoryTest.java)
+
+### [单例模式-Singleton pattern](https://www.jianshu.com/p/0f6755b20767)
++ [饿汉单例模式](./src/test/java/cn/lilq/designmode/singleton/eager/SingletonTest.java)
++ [懒汉单例模式](./src/test/java/cn/lilq/designmode/singleton/lazy/LazySingletonTest.java)
