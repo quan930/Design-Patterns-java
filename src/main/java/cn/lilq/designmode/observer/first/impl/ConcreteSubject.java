@@ -1,4 +1,7 @@
-package cn.lilq.designmode.observer.first;
+package cn.lilq.designmode.observer.first.impl;
+
+import cn.lilq.designmode.observer.first.Observer;
+import cn.lilq.designmode.observer.first.Subject;
 
 import java.util.Enumeration;
 import java.util.Vector;
@@ -7,7 +10,7 @@ import java.util.Vector;
  * @author Li Liangquan
  * @date 2019/7/29 8:29 PM
  */
-public class ConcreteSubject implements Subject{
+public class ConcreteSubject implements Subject {
     private Vector observersVector = new Vector();
 
     public void attach(Observer observer) {

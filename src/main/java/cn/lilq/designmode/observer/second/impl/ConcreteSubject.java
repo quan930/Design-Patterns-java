@@ -1,4 +1,6 @@
-package cn.lilq.designmode.observer.second;
+package cn.lilq.designmode.observer.second.impl;
+
+import cn.lilq.designmode.observer.second.Subject;
 
 /**
  * @author Li Liangquan

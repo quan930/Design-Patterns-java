@@ -1,4 +1,4 @@
-package cn.lilq.designmode.observer.first;
+package cn.lilq.designmode.observer.first.impl;
 
 /**
  * @author Li Liangquan

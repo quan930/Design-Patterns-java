@@ -1,8 +1,7 @@
 package cn.lilq.designmode.observer.first;
 
-import cn.lilq.designmode.observer.first.ConcreteObserver;
-import cn.lilq.designmode.observer.first.MySubject;
-import cn.lilq.designmode.observer.first.Observer;
+import cn.lilq.designmode.observer.first.impl.ConcreteObserver;
+import cn.lilq.designmode.observer.first.impl.MySubject;
 import org.junit.Before;
 import org.junit.Test;
 
